@@ -9,7 +9,7 @@
 Chúng tớ - Fờ lo ren ti nô Team là 1 nhóm gồm các sinh viên đến từ UET-VNU với đam mê tìm tòi các kiến thức về công nghệ :D 
 
 ## About our project
-Dự án "Smart Car Parking System" là dự án team chúng tớ chọn để tham gia IoT Challenge 2022 - Cuộc thi được tổ chức bởi FPT và Khoa Điện Tử Viễn Thông của UET-VNU. Và "Smart Car Parking App" là sản phẩm do tớ - Rena thực hiện nhằm mục đích tạo ra 1 app giúp theo dõi vị trí bãi đỗ xe và liệu chúng còn trống hay không.
+Dự án "Smart Car Parking System" là dự án team chúng tớ chọn để tham gia IoT Challenge 2022 - Cuộc thi được tổ chức bởi FPT Software và Khoa Điện Tử Viễn Thông của UET-VNU. Và "Smart Car Parking App" là sản phẩm do tớ - Rena thực hiện nhằm mục đích tạo ra 1 app giúp theo dõi vị trí bãi đỗ xe và liệu chúng còn trống hay không.
 
 Demo project: https://www.youtube.com/watch?v=n5Reu3NGDqs&t=11s&ab_channel=DucLe
 
