@@ -6,16 +6,16 @@
 <p align="center"><a href="https://github.com/renadayne/smart_car_parking_app"><img width="50%" src="https://github.com/renadayne/smart_car_parking_app/assets/78185992/e27473f1-6d1c-48b4-abd9-442becb34cda"></a></p>
 
 ## About Us
-Chúng tớ - Fờ lo ren ti nô Team là 1 nhóm gồm các sinh viên đến từ UET-VNU với đam mê tìm tòi các kiến thức về công nghệ :D 
+We are a group of students from UET-VNU with a passion for exploring technology knowledge
 
 ## About our project
-Dự án "Smart Car Parking System" là dự án team chúng tớ chọn để tham gia IoT Challenge 2022 - Cuộc thi được tổ chức bởi FPT Software và Khoa Điện Tử Viễn Thông của UET-VNU. Và "Smart Car Parking App" là sản phẩm do tớ - Rena thực hiện nhằm mục đích tạo ra 1 app giúp theo dõi vị trí bãi đỗ xe và liệu chúng còn trống hay không.
+The project 'Smart Car Parking System' is the project our team chose to participate in the IoT Challenge 2022 - a competition organized by FPT Software and Telecommunications Electronics Faculty of UET-VNU. And the 'Smart Car Parking App' is the product developed by me (Rena) with the aim of creating an app to track the location of parking lots and whether they are available or not.
 
 Demo project: https://www.youtube.com/watch?v=n5Reu3NGDqs&t=11s&ab_channel=DucLe
 
 ## Contact
-Nếu có bất kì thắc mắc nào mọi người có thể liên hệ tớ qua:
+If you have any concern, don't hesitate to contact me via:
 
 Gmail: huytuduelist@gmail.com
-<p align="center"><i>Tháng 5 2022</i></p>
+<p align="center"><i>May 2022</i></p>
 
